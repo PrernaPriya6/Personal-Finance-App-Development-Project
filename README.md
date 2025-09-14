@@ -133,6 +133,12 @@ personal-finance-manager/
 ## Screenshot Of The Project
 <img width="605" height="290" alt="image" src="https://github.com/user-attachments/assets/78d15ae1-bc6b-496d-a6e6-c0db4216e1f9" />
 
+<img width="904" height="276" alt="image" src="https://github.com/user-attachments/assets/bfec1312-3755-4885-b8f8-e8879035adfb" />
+
+<img width="896" height="263" alt="image" src="https://github.com/user-attachments/assets/dd27e2ec-9c5c-4894-9097-4d6b2d139a1a" />
+
+
+
 
 ---
 
