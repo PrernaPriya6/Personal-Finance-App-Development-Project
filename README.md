@@ -130,6 +130,9 @@ personal-finance-manager/
 ├── README.md            # Documentation
 └── backups/             # JSON backup files (optional)
 ```
+## Screenshot Of The Project
+<img width="605" height="290" alt="image" src="https://github.com/user-attachments/assets/78d15ae1-bc6b-496d-a6e6-c0db4216e1f9" />
+
 
 ---
 
